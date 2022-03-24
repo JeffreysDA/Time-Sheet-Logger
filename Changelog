@@ -1,0 +1,24 @@
+(Version 1.4)
+- Added decimal rounding in Summary section.
+
+
+(Version 1.3)
+- The 'Export' Button now automatically resets the Timesheet after exporting the information to a file.
+- Removed Hard Logged Breaks from Rows 2-4, as well as their check boxes.
+- Added "Exit after Export" Checkbox.
+- Added ability to add 25 more entry rows.
+- Added ability to Annotate time in hours logged as well as time in hours not logged for time gaps in entries.
+
+
+(Version 1.2)
+- Fixed missing folder error.
+
+
+(Version 1.1)
+- Work log not getting sorted prior to being exported. Something to do with hidden rows. Break Check boxes effect the outcome.
+- Added word wrap to log cells
+- Added Summary section to identify total number of hours in each category to more easily fill out actual time sheet.
+
+
+(Version 1.0)
+- Initial commit.
